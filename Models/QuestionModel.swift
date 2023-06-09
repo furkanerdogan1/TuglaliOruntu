@@ -18,7 +18,7 @@ struct Question {
 struct QuestionModel {
     var question: String
     var answer: String
-    var optionsList: [QuizOption]
+    var optionsList: [QuestionOption]
 }
 
 struct QuestionOption : Identifiable {
