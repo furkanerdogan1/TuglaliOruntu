@@ -1,5 +1,5 @@
 # Tuğlalı Örüntü
-Bu proje, Furkan Erdoğan tarafından Fırat Üniversitesi Yazılım Mühendisliği Güncel Konular dersi finali için geliştirilen bir mobil oyundur. Oyunun adı 'Tavşan Yuvaları' olarak belirlenmiştir ve 'Mobil' platformda çalışmaktadır.
+Bu proje, Furkan Erdoğan tarafından Fırat Üniversitesi Yazılım Mühendisliği Güncel Konular dersi finali için geliştirilen bir mobil oyundur. Oyunun adı 'Tuğlalı Örüntü' olarak belirlenmiştir ve 'Mobil' platformda çalışmaktadır.
 ## Kullandığım programlar ve diller
 - Xcode
 - Swift
