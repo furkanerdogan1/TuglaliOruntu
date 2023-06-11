@@ -11,7 +11,7 @@ import SwiftUI
 struct TuglaliOruntuApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            QuizView(gameManagerVM: GameManagerVM())
         }
     }
 }

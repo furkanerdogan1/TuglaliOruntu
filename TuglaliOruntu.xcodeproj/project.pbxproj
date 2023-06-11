@@ -8,24 +8,36 @@
 
 /* Begin PBXBuildFile section */
 		5F5B97882A275A640073D18E /* TuglaliOruntuApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5B97872A275A640073D18E /* TuglaliOruntuApp.swift */; };
-		5F5B978A2A275A640073D18E /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F5B97892A275A640073D18E /* ContentView.swift */; };
 		5F5B978C2A275A650073D18E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F5B978B2A275A650073D18E /* Assets.xcassets */; };
 		5F5B978F2A275A650073D18E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5F5B978E2A275A650073D18E /* Preview Assets.xcassets */; };
 		5F747D5B2A3355800088882D /* QuestionModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F747D5A2A3355800088882D /* QuestionModel.swift */; };
 		5F747D5E2A3356740088882D /* 72550-builder.json in Resources */ = {isa = PBXBuildFile; fileRef = 5F747D5D2A3356740088882D /* 72550-builder.json */; };
 		5F747D612A3356B40088882D /* Lottie in Frameworks */ = {isa = PBXBuildFile; productRef = 5F747D602A3356B40088882D /* Lottie */; };
 		5F747D632A3356D90088882D /* LottieView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5F747D622A3356D90088882D /* LottieView.swift */; };
+		5FF07E7B2A35BDB60073D3A6 /* QuizView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FF07E7A2A35BDB60073D3A6 /* QuizView.swift */; };
+		5FF07E7E2A35CC880073D3A6 /* ResuableText.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FF07E7D2A35CC880073D3A6 /* ResuableText.swift */; };
+		5FF07E802A35CCAE0073D3A6 /* OptionsGridView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FF07E7F2A35CCAE0073D3A6 /* OptionsGridView.swift */; };
+		5FF07E822A35CCC00073D3A6 /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FF07E812A35CCC00073D3A6 /* StartView.swift */; };
+		5FF07E842A35CCE00073D3A6 /* QuizCompletedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FF07E832A35CCE00073D3A6 /* QuizCompletedView.swift */; };
+		5FF07E862A35CD020073D3A6 /* GameManagerViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FF07E852A35CD020073D3A6 /* GameManagerViewModel.swift */; };
+		5FF07E882A35D7610073D3A6 /* Extensions.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5FF07E872A35D7610073D3A6 /* Extensions.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
 		5F5B97842A275A640073D18E /* TuglaliOruntu.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TuglaliOruntu.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		5F5B97872A275A640073D18E /* TuglaliOruntuApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TuglaliOruntuApp.swift; sourceTree = "<group>"; };
-		5F5B97892A275A640073D18E /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5F5B978B2A275A650073D18E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5F5B978E2A275A650073D18E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		5F747D5A2A3355800088882D /* QuestionModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuestionModel.swift; sourceTree = "<group>"; };
 		5F747D5D2A3356740088882D /* 72550-builder.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = "72550-builder.json"; sourceTree = "<group>"; };
 		5F747D622A3356D90088882D /* LottieView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LottieView.swift; sourceTree = "<group>"; };
+		5FF07E7A2A35BDB60073D3A6 /* QuizView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizView.swift; sourceTree = "<group>"; };
+		5FF07E7D2A35CC880073D3A6 /* ResuableText.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResuableText.swift; sourceTree = "<group>"; };
+		5FF07E7F2A35CCAE0073D3A6 /* OptionsGridView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OptionsGridView.swift; sourceTree = "<group>"; };
+		5FF07E812A35CCC00073D3A6 /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
+		5FF07E832A35CCE00073D3A6 /* QuizCompletedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuizCompletedView.swift; sourceTree = "<group>"; };
+		5FF07E852A35CD020073D3A6 /* GameManagerViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GameManagerViewModel.swift; sourceTree = "<group>"; };
+		5FF07E872A35D7610073D3A6 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -48,6 +60,7 @@
 				5F747D572A3353F00088882D /* View */,
 				5F747D562A3353E70088882D /* Models */,
 				5F747D5C2A33565F0088882D /* Data */,
+				5FF07E7C2A35CC5E0073D3A6 /* UIComponents */,
 				5F5B97862A275A640073D18E /* TuglaliOruntu */,
 				5F5B97852A275A640073D18E /* Products */,
 			);
@@ -90,6 +103,9 @@
 			isa = PBXGroup;
 			children = (
 				5F747D622A3356D90088882D /* LottieView.swift */,
+				5FF07E7F2A35CCAE0073D3A6 /* OptionsGridView.swift */,
+				5FF07E812A35CCC00073D3A6 /* StartView.swift */,
+				5FF07E832A35CCE00073D3A6 /* QuizCompletedView.swift */,
 			);
 			path = View;
 			sourceTree = "<group>";
@@ -97,6 +113,7 @@
 		5F747D582A3353F80088882D /* ViewModel */ = {
 			isa = PBXGroup;
 			children = (
+				5FF07E852A35CD020073D3A6 /* GameManagerViewModel.swift */,
 			);
 			path = ViewModel;
 			sourceTree = "<group>";
@@ -105,7 +122,7 @@
 			isa = PBXGroup;
 			children = (
 				5F5B97872A275A640073D18E /* TuglaliOruntuApp.swift */,
-				5F5B97892A275A640073D18E /* ContentView.swift */,
+				5FF07E7A2A35BDB60073D3A6 /* QuizView.swift */,
 			);
 			path = AppMain;
 			sourceTree = "<group>";
@@ -116,6 +133,15 @@
 				5F747D5D2A3356740088882D /* 72550-builder.json */,
 			);
 			path = Data;
+			sourceTree = "<group>";
+		};
+		5FF07E7C2A35CC5E0073D3A6 /* UIComponents */ = {
+			isa = PBXGroup;
+			children = (
+				5FF07E7D2A35CC880073D3A6 /* ResuableText.swift */,
+				5FF07E872A35D7610073D3A6 /* Extensions.swift */,
+			);
+			path = UIComponents;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -195,10 +221,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				5FF07E802A35CCAE0073D3A6 /* OptionsGridView.swift in Sources */,
 				5F747D5B2A3355800088882D /* QuestionModel.swift in Sources */,
-				5F5B978A2A275A640073D18E /* ContentView.swift in Sources */,
+				5FF07E822A35CCC00073D3A6 /* StartView.swift in Sources */,
+				5FF07E862A35CD020073D3A6 /* GameManagerViewModel.swift in Sources */,
+				5FF07E7B2A35BDB60073D3A6 /* QuizView.swift in Sources */,
 				5F5B97882A275A640073D18E /* TuglaliOruntuApp.swift in Sources */,
 				5F747D632A3356D90088882D /* LottieView.swift in Sources */,
+				5FF07E7E2A35CC880073D3A6 /* ResuableText.swift in Sources */,
+				5FF07E882A35D7610073D3A6 /* Extensions.swift in Sources */,
+				5FF07E842A35CCE00073D3A6 /* QuizCompletedView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
