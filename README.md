@@ -7,7 +7,7 @@ Bu proje, Furkan Erdoğan tarafından Fırat Üniversitesi Yazılım Mühendisli
 
 ## PROJE KONUSU OLAN KART
 <p align="left">
-  <img src="Images/kart.png" alt="Açıklama" width="650" height="450" />
+  <img src="ScreenShots/tuglaKart.png" alt="Açıklama" width="450" height="650" />
 </p>
 
 
